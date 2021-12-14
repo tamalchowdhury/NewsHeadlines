@@ -1,0 +1,16 @@
+.card {
+  &__image {
+    & img {
+      width: 100%;
+      height: 146px;
+    }
+  }
+
+  &__title {
+    font-weight: bold;
+  }
+
+  &__detail {
+    font-size: 0.8rem;
+  }
+}

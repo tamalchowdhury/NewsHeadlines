@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+.wrapper {
+  display: grid;
+  /* grid-template-columns: auto auto auto auto; */
+  grid-template-columns: 23% 23% 23% 23%;
+  align-items: start;
+  grid-gap: 25px;
+}
+
+#loading_image {
+  grid-column: 1/5;
+}
+
+.inner {
+  display: grid;
+  grid-template-columns: 23% 50% 23%;
+  grid-gap: 25px;
+}
+
+.footer {
+  grid-column: 1/5;
+}
+
+.news_item {
+  /* grid-column: 1/2; */
+}
