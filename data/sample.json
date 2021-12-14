@@ -1,0 +1,246 @@
+{
+   "status":"ok",
+   "totalResults":20,
+   "articles":[
+      {
+         "source":{
+            "id":"fox-news",
+            "name":"Fox News"
+         },
+         "author":"Fox News",
+         "title":"Rapper Rick Ross reportedly hospitalized in Florida",
+         "description":"Rapper Rick Ross has reportedly been hospitalized after suffering a medical issue at his home near Miami early Thursday morning.",
+         "url":"http://www.foxnews.com/entertainment/2018/03/03/rapper-rick-ross-reportedly-hospitalized-in-florida.html",
+         "urlToImage":"http://a57.foxnews.com/images.foxnews.com/content/fox-news/entertainment/2018/03/03/rapper-rick-ross-reportedly-hospitalized-in-florida/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1520070702158.jpg?ve=1",
+         "publishedAt":"2018-03-03T11:34:29Z"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Ibtimes.com"
+         },
+         "author":"https://www.facebook.com/prithz.paul",
+         "title":"Watch: Tiger Wrestles Bear In Rare Viral Video",
+         "description":"The fight between a tiger and a sloth bear was captured by Akshay Kumar, chief naturalist at Bamboo Forest Safari Lodge, Maharashtra, India.",
+         "url":"http://www.ibtimes.com/watch-tiger-wrestles-bear-rare-viral-video-2659394",
+         "urlToImage":"http://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/03/03/tiger.jpg",
+         "publishedAt":"2018-03-03T11:01:28Z"
+      },
+      {
+         "source":{
+            "id":"the-new-york-times",
+            "name":"The New York Times"
+         },
+         "author":null,
+         "title":"Box Office Hit or Best Picture at the Oscars? You Can Rarely Have Both",
+         "description":"In the past 30 years, only four movies were named best picture while topping the box office charts.",
+         "url":"https://www.nytimes.com/interactive/2018/03/03/movies/oscars-best-picture-box-office.html",
+         "urlToImage":"https://static01.nyt.com/images/2018/03/02/movies/oscars-best-picture-1520040102158/oscars-best-picture-1520040102158-facebookJumbo.jpg",
+         "publishedAt":"2018-03-03T10:01:13Z"
+      },
+      {
+         "source":{
+            "id":"reuters",
+            "name":"Reuters"
+         },
+         "author":"Reuters Editorial",
+         "title":"China pledges friendship with Taiwan amid tensions over US bill",
+         "description":"China wants to deepen friendship with Taiwan, the ruling Communist Party's fourth-ranked leader said on Saturday, a day after state media warned China could go to war over Taiwan if a U.S. bill promoting closer ties with the island becomes law.",
+         "url":"https://www.reuters.com/article/us-china-parliament-taiwan/china-pledges-friendship-with-taiwan-amid-tensions-over-us-bill-idUSKCN1GF06A",
+         "urlToImage":"https://s3.reutersmedia.net/resources/r/?m=02&d=20180303&t=2&i=1237006752&w=1200&r=LYNXNPEE2203L",
+         "publishedAt":"2018-03-03T08:38:09Z"
+      },
+      {
+         "source":{
+            "id":"engadget",
+            "name":"Engadget"
+         },
+         "author":"Mariella Moon",
+         "title":"Google tiff brings an end to Amazon selling Nest products",
+         "description":"According to 'Business Insider' Amazon has decided not to sell Nest's latest products.",
+         "url":"https://www.engadget.com/2018/03/03/google-amazon-nest/",
+         "urlToImage":"https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fs.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F48c889bb97bb877b47c22edd939308da%2F206176908%2Fnest.jpeg&client=cbc79c14efcebee57402&signature=337010ca47af48e64390b623090468dc795c0ea0",
+         "publishedAt":"2018-03-03T07:27:36Z"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Bbc.com"
+         },
+         "author":"https://www.facebook.com/bbcnews",
+         "title":"Five reasons why trade wars aren't easy to win",
+         "description":"President Donald Trump says he thinks the US can \"win\" a trade war. Here are some costs he might encounter along the way.",
+         "url":"http://www.bbc.com/news/business-43262278",
+         "urlToImage":"https://ichef.bbci.co.uk/news/1024/branded_news/154FF/production/_100259278_gettyimages-813614968.jpg",
+         "publishedAt":"2018-03-03T07:27:02Z"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Hawaiinewsnow.com"
+         },
+         "author":"Matt Quillen",
+         "title":"Suspect in Central Michigan University shooting arrested",
+         "description":"Police have arrested James Eric Davis Jr., the suspect in Friday's deadly shooting at Central Michigan University.",
+         "url":"http://www.hawaiinewsnow.com/story/37632135/suspect-in-central-michigan-university-shooting-arrested",
+         "urlToImage":"http://RAYCOMGROUP.images.worldnow.com/images/16228359_G.jpg",
+         "publishedAt":"2018-03-03T06:50:35Z"
+      },
+      {
+         "source":{
+            "id":"cnn",
+            "name":"CNN"
+         },
+         "author":"Ralph Ellis, Faith Karimi and Joe Sterling, CNN",
+         "title":"Storm whips Northeast with rain, floods; over 1 million customers lose power",
+         "description":"A powerful storm will pound the Northeast with drenching rain, howling winds and surging waves for a second day Saturday.",
+         "url":"https://www.cnn.com/2018/03/02/us/weather-bomb-cyclone/index.html",
+         "urlToImage":"https://cdn.cnn.com/cnnnext/dam/assets/180302115223-04-us-weather-0302-mass-super-tease.jpg",
+         "publishedAt":"2018-03-03T06:17:18Z"
+      },
+      {
+         "source":{
+            "id":"abc-news",
+            "name":"ABC News"
+         },
+         "author":"ABC News",
+         "title":"Colorado lawmaker expelled over sex misconduct allegations",
+         "description":"Numerous female representatives in Colorado's state House took their turns at the podium to come out as victims of sexual harassment or abuse in an emotional debate that culminated with the expulsion of the second U.S. state lawmaker accused of sexual harassm…",
+         "url":"http://abcnews.go.com/US/wireStory/colorado-lawmaker-expelled-sex-misconduct-allegations-53482122",
+         "urlToImage":"https://s.abcnews.com/images/Politics/WireAP_69420fdd8a05432185f35d38b8982025_16x9_992.jpg",
+         "publishedAt":"2018-03-03T06:02:14Z"
+      },
+      {
+         "source":{
+            "id":"fox-news",
+            "name":"Fox News"
+         },
+         "author":"Elizabeth Zwirz",
+         "title":"Slain Las Vegas shooting victims' families to receive $275G each, donation fund says",
+         "description":"The families of the 58 people killed in the Las Vegas massacre last year will be given $275,000 each from a pot of roughly $31.5 million in the Las Vegas Victims Fund, the group announced Friday.",
+         "url":"http://www.foxnews.com/us/2018/03/02/slain-las-vegas-shooting-victims-families-to-receive-275g-each-donation-fund-says.html",
+         "urlToImage":"http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/01/19/0/0/694940094001_5714772381001_5714764209001-vs.jpg?ve=1",
+         "publishedAt":"2018-03-03T02:12:00Z"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Latimes.com"
+         },
+         "author":"Paloma Esquivel",
+         "title":"Friends say Joshua Tree couple is extremely poor, not abusive",
+         "description":"Mona Kirk, 51, and Daniel Panico, 73, were charged with three counts each of felony child abuse on Friday, two days after a deputy found their three children living in squalor in a tiny, makeshift home with no electricity or water.",
+         "url":"http://www.latimes.com/local/lanow/la-me-ln-joshua-tree-couple-20180302-story.html",
+         "urlToImage":"http://www.latimes.com/resizer/iG3ExYoORIQIAe9mCbRKofk9xOA=/1200x0/www.trbimg.com/img-5a99f952/turbine/la-me-ln-joshua-tree-couple-20180302",
+         "publishedAt":"2018-03-03T00:45:33Z"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Miamiherald.com"
+         },
+         "author":"Nora Gámez Torres",
+         "title":"Computer scientists may have solved the mystery behind the 'sonic attacks' in Cuba",
+         "description":"Professor Kevin Fu and members of the Security and Privacy Research Group at the University of Michigan say they have an explanation for what could have happened in Havana: two sources of ultrasound — such as listening devices — placed too close together coul…",
+         "url":"http://www.miamiherald.com/news/nation-world/world/americas/cuba/article203221919.html",
+         "urlToImage":"http://www.miamiherald.com/news/nation-world/world/americas/cuba/uw8hwf/picture203221914/alternates/LANDSCAPE_1140/IMG_Hotel_Capri_01_EKM_11_1_6NCH4O72_L346418295%20(2)",
+         "publishedAt":"2018-03-03T00:06:53Z"
+      },
+      {
+         "source":{
+            "id":"the-huffington-post",
+            "name":"The Huffington Post"
+         },
+         "author":null,
+         "title":"Leaked Emails Appear To Show A Top Trump Fundraiser Abusing His Power",
+         "description":null,
+         "url":"https://www.huffingtonpost.com/entry/elliott-broidy-trump-malaysia-doj_us_5a988471e4b0a0ba4ad18d65",
+         "urlToImage":null,
+         "publishedAt":"2018-03-02T23:39:00Z"
+      },
+      {
+         "source":{
+            "id":"cnn",
+            "name":"CNN"
+         },
+         "author":"Abby Phillip, Dan Merica and MJ Lee, CNN",
+         "title":"Defiant John Kelly continues to misrepresent his handling of Rob Porter scandal",
+         "description":"White House chief of staff John Kelly continued to misrepresent his handling of the dismissal of former top aide Rob Porter on Friday, defiantly obfuscating on exactly what he knew -- and when -- about the extent of the abuse allegations against Porter's two …",
+         "url":"https://www.cnn.com/2018/03/02/politics/john-kelly-rob-porter-abuse/index.html",
+         "urlToImage":"https://cdn.cnn.com/cnnnext/dam/assets/180208111940-john-kelly-rob-porter-file-super-tease.jpg",
+         "publishedAt":"2018-03-02T22:26:46Z"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Latimes.com"
+         },
+         "author":"Associated Press",
+         "title":"Georgia punishes Delta for crossing the NRA; airline insists it's 'not taking sides'",
+         "description":"Delta Air Lines showed no signs Friday of backing away from a decision to cancel discounts for the National Rifle Assn., despite a revenge move by Georgia state leaders that deprived the airline of a significant tax break.",
+         "url":"http://www.latimes.com/business/la-fi-delta-nra-20180302-story.html",
+         "urlToImage":"http://www.latimes.com/resizer/3jqGoQuyTZMh0lZQKrjvv2qdv-A=/1200x0/www.trbimg.com/img-5a99dc60/turbine/la-fi-delta-nra-20180302",
+         "publishedAt":"2018-03-02T20:35:58Z"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Wfmz.com"
+         },
+         "author":"SARA ASHLEY O'BRIEN",
+         "title":"Plan to end rule that allows spouses of H-1B holders to work is delayed",
+         "description":"Plans to rescind an Obama-era rule that allows spouses of thousands of H-1B visa holders to work in the United States has been delayed until June, according to a court filing from the Department of Homeland Security.",
+         "url":"http://www.wfmz.com/news/plan-to-end-rule-that-allows-spouses-of-h1b-holders-to-work-is-delayed/710239224",
+         "urlToImage":"https://media.wfmz.com/mara-wfmz-media-us-east-1/photo/2018/03/02/h1b_graphic_1520021846706_10563570_ver1.0_1280_720.jpg",
+         "publishedAt":"2018-03-02T20:28:00Z"
+      },
+      {
+         "source":{
+            "id":"the-wall-street-journal",
+            "name":"The Wall Street Journal"
+         },
+         "author":"Thomas Grove",
+         "title":"Despite Putin's Rhetoric, Much of Russian Arms Technology Isn't New",
+         "description":"The nuclear arsenal unveiled by President Vladimir Putin has raised warnings of a new arms race, but with some exceptions the weapons are familiar and illustrate the chronic problems faced by Russia’s arms industry.",
+         "url":"https://www.wsj.com/articles/putins-nuclear-arsenal-and-rhetoric-are-tried-and-true-1520019118",
+         "urlToImage":"https://si.wsj.net/public/resources/images/BN-XS306_RUSARM_SOC_20180302134519.jpg",
+         "publishedAt":"2018-03-02T19:49:23Z"
+      },
+      {
+         "source":{
+            "id":"the-wall-street-journal",
+            "name":"The Wall Street Journal"
+         },
+         "author":"Siobhan Hughes",
+         "title":"Florida Governor Rick Scott's Shift on Guns Tangles Possible Senate Candidacy",
+         "description":"Florida Gov. Rick Scott’s glide toward a potential U.S. Senate bid became far more complicated after a troubled 19-year-old killed 17 people last month at a school in Parkland, Fla.",
+         "url":"https://www.wsj.com/articles/florida-governor-rick-scotts-shift-on-guns-tangles-possible-senate-candidacy-1520010310",
+         "urlToImage":"https://images.wsj.net/im-2974/social",
+         "publishedAt":"2018-03-02T17:05:00Z"
+      },
+      {
+         "source":{
+            "id":"reuters",
+            "name":"Reuters"
+         },
+         "author":"Michael Holden",
+         "title":"Teacher tried to create 'army of children' to launch terror attacks in London",
+         "description":"A British supporter of Islamic State was found guilty on Friday of trying to recruit children he was teaching into an \"army\" of jihadists to help carry out a wave of attacks across London.",
+         "url":"https://www.reuters.com/article/us-britain-security/teacher-tried-to-create-army-of-kids-to-launch-terror-attacks-in-london-idUSKCN1GE2CU",
+         "urlToImage":"https://s2.reutersmedia.net/resources/r/?m=02&d=20180302&t=2&i=1236859688&w=1200&r=LYNXNPEE211WC",
+         "publishedAt":"2018-03-02T16:35:30Z"
+      },
+      {
+         "source":{
+            "id":"cbs-news",
+            "name":"CBS News"
+         },
+         "author":"CBS/AP",
+         "title":"California north and south feeling wrath of intense rain, snowstorm",
+         "description":"Officials order evacs in SoCal in light of forecast heavy rain and NorCal could get up to 7 feet of snow",
+         "url":"https://www.cbsnews.com/news/california-north-and-south-feeling-wrath-of-intense-rain-snowstorm/",
+         "urlToImage":"https://cbsnews1.cbsistatic.com/hub/i/r/2018/03/02/69f0fcd7-fa71-4350-9f3a-d79c8ac9b142/thumbnail/1200x630/7a0e7430deda5d01e42f84e76596a13f/ap-18060757585730.jpg",
+         "publishedAt":"2018-03-02T13:28:00Z"
+      }
+   ]
+}
