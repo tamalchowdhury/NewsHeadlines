@@ -42,7 +42,7 @@ function populateNewsItems(data) {
     cardDetail.textContent = description
 
     let image = document.createElement('img')
-    image.src = urlToImage
+    image.src = urlToImage || 'https://via.placeholder.com/260x145'
     image.alt = title
 
     card.querySelector('.card__image').appendChild(image)
