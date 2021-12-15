@@ -1,3 +1,6 @@
+import populateNewsItems from './populateNewsItems'
+import createComponent from './createComponent'
+
 // Format
 // https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=830687438ae94448ac5a5bb1f3531ff3
 
@@ -15,43 +18,24 @@ for (let i = 0; i < 20; i++) {
   let el = document.createElement('div')
   el.classList.add('card', `card__${i}`)
 
-  let cardImage = document.createElement('div')
-  cardImage.classList.add('card__image', 'empty')
+  let cardImage = createComponent(['card__image', 'empty'])
+  let cardTitle = createComponent(['card__title'])
+  cardTitle.append(
+    createComponent(['empty']),
+    createComponent(['empty']),
+    createComponent(['empty'])
+  )
 
-  let cardTitle = document.createElement('div')
-  cardTitle.classList.add('card__title', 'empty')
-
-  cardTitle.append(document.createElement('div'), document.createElement('div'))
-
-  let cardDetail = document.createElement('div')
-  cardDetail.classList.add('card__detail', 'empty')
+  let cardDetail = createComponent(['card__detail'])
+  cardDetail.append(
+    createComponent(['empty']),
+    createComponent(['empty']),
+    createComponent(['empty']),
+    createComponent(['empty'])
+  )
 
   el.append(cardImage, cardTitle, cardDetail)
-
   document.querySelector('.wrapper').appendChild(el)
-}
-
-function populateNewsItems(data) {
-  data.forEach((item, index) => {
-    let { title, urlToImage, description } = item
-
-    let card = document.querySelector(`.card__${index}`)
-    let cardTitle = card.querySelector('.card__title')
-    cardTitle.textContent = title
-    let cardDetail = card.querySelector('.card__detail')
-    cardDetail.textContent = description
-
-    let image = document.createElement('img')
-    image.src = urlToImage || 'https://via.placeholder.com/260x145'
-    image.alt = title
-
-    card.querySelector('.card__image').appendChild(image)
-
-    card.querySelectorAll('.empty').forEach((el) => {
-      el.classList.remove('empty')
-      el.classList.add('loaded')
-    })
-  })
 }
 
 $(() => {
